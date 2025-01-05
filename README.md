@@ -1,1 +1,1 @@
-# azure-cicd-deployment-sample
+# Azure CI/CD with Github Actions
